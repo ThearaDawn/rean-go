@@ -1,1 +1,1 @@
-# rean-go
+# Rean Golang Programming
