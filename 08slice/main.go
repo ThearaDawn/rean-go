@@ -33,7 +33,4 @@ func main() {
 	// Sort
 	sort.Ints(scores)
 	fmt.Println("Max score:", scores)
-
-	sort.Sort(sort.Reverse(scores(s)))
-	fmt.Println("Max score:", scores)
 }
